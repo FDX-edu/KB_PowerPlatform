@@ -7,4 +7,4 @@
 |---|----|---------------------------------|----|
 | 1 | 6H | 회사소개, PP소개, PA, PAD        |    |
 | 2 | 6H | Apps, CopilotStudio, Copilot(?) |    |
-| 3 | 6H | Admin Center                    |    |
+| 3 | 4H | Admin Center                    |    |
