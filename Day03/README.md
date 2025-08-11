@@ -1,5 +1,4 @@
-
-2. Power Platform Admin
+# 2. Power Platform Admin
 
 90분
 
