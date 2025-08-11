@@ -1,13 +1,20 @@
 # KB 파워플랫폼 교육
 
-8/11 이후 예정 (3일간)
+8/11 이후
 
 
-|일차|시간|내용|비고|
-|---|----|---------------------------------|----|
-| 1 | 6H | 회사소개, PP소개, PA, PAD        |    |
-| 2 | 6H | Apps, CopilotStudio, Copilot(?) |    |
-| 3 | 4H | Admin Center                    |    |
+| 구분 | 시간 | 내용 | 비고 |
+| --- | --- | --- | --- |
+| 1. Power Platform Overciew | 90 | Power Apps</br>Power Automate</br>Copilot Studio</br>Power Platform Demo |    |
+| Break | 15 |    |    |
+| 2. Power Platform Admin | 90 | Power Platform Admin과 M365 Admin 차이</br>Power Platform Admin을 사용한 Power Platform 관리</br>Power Platform 보안 및 거버넌스</br>Power Platform 사용을 위한 혁신금융위 대응 방안 |    |
+| Break | 15 |    |    |
+| 3. Wrap-up & QA | 20 |    |    |
+
+
+----
+
+
 
 ----
 
