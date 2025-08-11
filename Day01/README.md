@@ -1,9 +1,11 @@
-1일차  
-6H  
-PowerPlatform 소개, PA, PAD
+# 1. Power Platform Overview
 
-| 차시 | 시간 | 내용                  | 비고 |
+90분  
+
+| 순번 | 시간 | 내용                  | 비고 |
 | ---- | ---- | --------------------- | ---- |
-| 1    | 1H   | Power Platform 소개   |      |
-| 2    | 1H   | Power Automate 소개   |      |
-| 3    | 3H   | Power Automate 핸즈온 |      |  
+| 0    |      | Power Platform        |      |
+| 1    |      | Power Apps            |      |
+| 2    |      | Power Automate        |      |
+| 3    |      | Copilot Studio        |      |  
+| 4    |      | Demo                  |      |
