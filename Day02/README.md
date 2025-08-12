@@ -1,6 +1,6 @@
 
-2일차
+실습
 
-6h
-
-Apps, Copilot Studio, + Copilot?
+power apps
+power automate
+copilot studio
