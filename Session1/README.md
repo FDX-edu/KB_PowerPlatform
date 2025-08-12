@@ -1,4 +1,4 @@
-# 1. Power Platform Overview
+# Session1. Power Platform Overview
 
 90분  
 
