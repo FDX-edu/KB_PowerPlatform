@@ -1,4 +1,4 @@
-# 2. Power Platform Admin
+# Session2. Power Platform Admin
 
 90분
 
