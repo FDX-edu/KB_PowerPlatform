@@ -1,4 +1,4 @@
-# KB 파워플랫폼 교육
+# Power Platform 교육
 
 
 
